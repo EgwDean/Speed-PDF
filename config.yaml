@@ -1,0 +1,11 @@
+app:
+  title: Speed-PDF
+  window_width: 1100
+  window_height: 700
+  min_width: 900
+  min_height: 550
+
+reader:
+  wpm_default: 300
+  wpm_min: 100
+  wpm_max: 1000
